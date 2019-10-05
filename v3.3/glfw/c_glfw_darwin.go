@@ -9,5 +9,6 @@ package glfw
 #include "glfw/src/posix_thread.c"
 #include "glfw/src/nsgl_context.m"
 #include "glfw/src/osmesa_context.c"
+#include "glfw/src/egl_context.c"
 */
 import "C"
